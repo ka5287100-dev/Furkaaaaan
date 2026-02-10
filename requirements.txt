@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+httpx
+requests
+beautifulsoup4
+quickjs
+ua_generator 
